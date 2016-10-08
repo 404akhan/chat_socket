@@ -1,0 +1,15 @@
+{
+  "name": "proj13",
+  "version": "1.0.0",
+  "description": "Simple chat app",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhan Ismailov",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
